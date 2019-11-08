@@ -1,0 +1,18 @@
+.mt-stats {
+    margin-top: 0px;
+}
+
+.mt-element-card .mt-card-item{
+    margin-bottom: -1px;
+}
+
+/* button group  */
+.btn-group-justified{
+    border:1px solid #e7ecf1 ;
+}
+
+.btn-group>.btn:nth-child(2) {
+    border-right: 1px solid #e7ecf1;
+    border-left: 1px solid #e7ecf1;
+}
+/* button group  */

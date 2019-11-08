@@ -1,0 +1,38 @@
+/* Content Height */
+
+.blog-content-1 .blog-quote{
+    padding-bottom: 0px;
+}
+
+/*Content Height */
+
+/* Crud Buttons Position*/
+
+.mt-stats{
+    margin-top: 25px;
+}
+/*Crud Button Position*/
+
+
+.bg-blue-jungle{
+    background: #26a7c2 !important;
+}
+.bg-red-jungle{
+    background: #c23249 !important;
+}
+.bg-yellow-jungle{
+    background: #c2a000 !important;
+}
+
+
+
+
+/* button group  */
+.btn-group-justified{
+    border:1px solid #e7ecf1 ;
+}
+.btn-group>.btn:nth-child(2) {
+    border-right: 1px solid #e7ecf1;
+    border-left: 1px solid #e7ecf1;
+}
+/* button group  */

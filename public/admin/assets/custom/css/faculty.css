@@ -1,0 +1,98 @@
+/*faculty content */
+.blog-content-1 .blog-post-content{
+    padding: 20px 30px 10px;
+}
+
+/* faculty content*/
+
+
+/*faculty card*/
+.blog-content-1 .blog-post-lg>.blog-img-thumb {
+    height: 300px;
+}
+/*faculty card*/
+
+/*content style list */
+.blog-content-1 .blog-post-lg>.blog-post-content>.blog-post-foot>.blog-post-tags>.row>div>li{
+    list-style: none;
+}
+/*content style list */
+
+
+/*content tags responsive*/
+.blog-content-1 .blog-post-lg>.blog-post-content>.blog-post-foot>.blog-post-tags>.row>div>li>a{
+    background-color: #f4f6f8;
+    color: #a0a9b4;
+    font-size: 11px;
+    font-weight: 600;
+    padding: 7px 4px;
+}
+/*content tags responsive*/
+
+/*content tags */
+.blog-content-1 .blog-post-lg>.blog-post-content>.blog-post-foot>.blog-post-tags>li>a{
+    padding: 7px 2px;
+}
+/*content tags */
+
+/*faculty badge */
+.blog-content-1 .blog-post-lg>.blog-post-content>.blog-post-foot>.blog-post-tags>li>a>.badge{
+    margin-bottom: 3px;
+}
+/*faculty badge */
+
+
+/*blog tags */
+.blog-content-1 .blog-post-lg>.blog-post-content>.blog-post-foot>.blog-post-tags {
+    width: 100%;
+    text-align: center;
+}
+/*blog tags */
+
+/*m-stats */
+.mt-stats{
+    background: #ffffff;
+}
+/*m-stats */
+
+/* button group  */
+.btn-group-justified{
+    border:1px solid #e7ecf1 ;
+}
+.btn-group>.btn:nth-child(2) {
+   border-right: 1px solid #e7ecf1;
+   border-left: 1px solid #e7ecf1;
+}
+/* button group  */
+
+
+
+
+/*Add Page */
+/*sub department */
+.sub-department{
+    width: 60%;
+    display: inline-block;
+}
+/*sub department*/
+
+/*delete button*/
+.delete-sub-department{
+    margin-bottom: 3px;
+    margin-left: -42px;
+}
+/*delete button*/
+/*Add Page */
+
+/*faculty department row margins*/
+.dep-row{
+    margin: 20px 18px 30px 0px;
+}
+/*faculty department row margins*/
+
+/*form action margins*/
+.form-actions{
+    margin-top: 70px !important;
+}
+
+/*form action margins*/

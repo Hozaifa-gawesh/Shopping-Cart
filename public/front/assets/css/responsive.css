@@ -1,0 +1,200 @@
+@media(max-width:400px){
+    
+    .header .top-header .logo img {
+        width: 200px;
+    }
+    
+    .header .top-header .links-mobile {
+        right: 10px !important;
+    }
+    
+}
+
+
+
+
+
+@media(max-width:767px){
+
+
+    /*******************************
+    Start Header 
+    *******************************/
+    
+    .header .top-bar .social-header {
+        display: none;
+    }
+
+    .header_height {
+        height: auto;
+    }
+    
+    .header .top-bar .lang-account {
+        float: none;
+        margin: auto;
+        display: table;
+    }
+    
+    .header .top-header .logo {
+        float: none;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    
+    .header .links-menu-mobile {
+        display: block;
+    }
+        
+    .header .top-header .search {
+        float: none;
+        padding-top: 0px;
+        width: 100%;
+        padding-bottom: 30px;
+    }
+    
+    .header .top-header .links-mobile {
+        display: block;
+        position: absolute;
+        top: 22px;
+        right: 30px;
+    }
+    
+    .header .top-header .links-mobile i {
+        display: block;
+        color: #e61873;
+        padding: 7px 10px;
+        font-size: 20px;
+        border: 1px solid #e61873;
+        cursor: pointer;
+    }
+    
+    .header .header-bottom {
+        display: none;
+    }
+    
+    
+    /*******************************
+    End Header 
+    *******************************/
+    
+    
+    
+    /*******************************
+    Start Slider
+    *******************************/
+    
+    .callbacks img {
+        height: 350px;
+    }
+    
+    /*******************************
+    End Slider 
+    *******************************/
+    
+    .features .overlay-features .feature {
+        
+        margin-bottom: 50px;
+        
+    }
+    
+    
+    /*******************************
+    Start Footer
+    *******************************/
+    
+    .footer .about-contact img {
+        width: 240px;
+    }
+    
+    .footer .contact i {
+        float: none;
+    }
+    
+    .footer .contact .info-contact {
+        float: none;
+        margin-top: 5px;
+        margin-left: 0;
+    }
+    
+    .footer .copyright p {
+        float: none;
+        text-align: center;
+    }
+    
+    .footer .copyright .social-footer {
+        float: none;
+        text-align: center;
+        margin-top: 15px;
+    }
+    
+    /*******************************
+    End Footer
+    *******************************/
+    
+    
+    
+    
+}
+
+
+/* small screen */
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+    
+    
+    /*******************************
+    Start Header 
+    *******************************/
+    
+    
+    .header .top-header .logo img {
+        width: 240px;
+    }
+    
+    
+    /*******************************
+    End Header 
+    *******************************/
+   
+    
+    
+    /*******************************
+    Start Footer
+    *******************************/
+    
+    .footer .contact i {
+        float: none;
+    }
+    
+    .footer .contact .info-contact {
+        float: none;
+        margin-top: 5px;
+        margin-left: 0;
+    }
+
+    
+    /*******************************
+    End Footer
+    *******************************/
+    
+}
+
+/* medium screen */
+
+@media only screen and (min-width: 992px) and (max-width: 1199px){
+    
+    
+    
+   
+}
+
+/* large screen */
+
+@media(min-width:1200px)
+{
+    
+    
+    
+    
+    
+}
