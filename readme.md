@@ -2,9 +2,9 @@
 A Laravel application for simple E-commerce Shopping Cart.
 
 ## Demo
-Link: https://handmadedesign.000webhostapp.com/public/
+Link: https://handmadedesign.000webhostapp.com/
 
 ## Admin Panel 
-- Link: https://handmadedesign.000webhostapp.com/public/admin/login
+- Link: https://handmadedesign.000webhostapp.com/admin/login
 - email: test@test.com
 - password: 123456
